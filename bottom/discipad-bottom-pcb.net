@@ -1,0 +1,36 @@
+(export (version D)
+  (design
+    (source "C:\\Users\\bryan\\Downloads\\kicad projects\\bobbypad v1.1\\bottom\\mulletpad-pcb.sch")
+    (date "6/26/2019 5:00:57 AM")
+    (tool "Eeschema (5.1.0)-1")
+    (sheet (number 1) (name /) (tstamps /)
+      (title_block
+        (title)
+        (company)
+        (rev)
+        (date)
+        (source mulletpad-pcb.sch)
+        (comment (number 1) (value ""))
+        (comment (number 2) (value ""))
+        (comment (number 3) (value ""))
+        (comment (number 4) (value "")))))
+  (components
+    (comp (ref H1)
+      (value 1PIN)
+      (footprint MountingHole:MountingHole_2.2mm_M2_Pad)
+      (libsource (lib inputclub) (part 1PIN) (description ""))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 5D13347D)))
+  (libparts
+    (libpart (lib inputclub) (part 1PIN)
+      (fields
+        (field (name Reference) H)
+        (field (name Value) 1PIN))
+      (pins
+        (pin (num 1) (name ~) (type BiDi)))))
+  (libraries
+    (library (logical inputclub)
+      (uri C:/Users/bryan/Downloads/whitefox/pcb-master/WhiteFox/lib/inputclub.lib)))
+  (nets
+    (net (code 1) (name GND)
+      (node (ref H1) (pin 1)))))
