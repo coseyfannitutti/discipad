@@ -7,5 +7,5 @@ Kits available at [cftkb.com](https://www.cftkb.com)
 
 ![discipad](./doc/images/discipad.jpeg)
 ![](./doc/images/discipad-kicad.png)
-![](./doc/images/discipline-top.png)
-![](./doc/images/discipline-bottom.png)
+![](./doc/images/discipad-top.png)
+![](./doc/images/discipad-bottom.png)
