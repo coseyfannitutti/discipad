@@ -10,4 +10,4 @@
 
 [Bootloader](./bootloader)
 
-[BOM (Parts List)](https://octopart.com/bom-tool/W4rybyut)
+[BOM (Parts List)](https://octopart.com/bom-tool/zkOB9ZlB)
