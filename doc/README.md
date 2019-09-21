@@ -1,4 +1,4 @@
-# DISCIPLINE
+# DISCIPAD
 
 ![discipad](./images/discipad-kicad.png)
 
