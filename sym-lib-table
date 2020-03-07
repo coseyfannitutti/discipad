@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name discipad-pcb-rescue)(type Legacy)(uri ${KIPRJMOD}/discipad-pcb-rescue.lib)(options "")(descr ""))
+)
